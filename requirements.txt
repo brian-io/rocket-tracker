@@ -1,0 +1,6 @@
+opencv-python
+numpy
+inference
+supervision
+python-dotenv
+RPi.GPIO
